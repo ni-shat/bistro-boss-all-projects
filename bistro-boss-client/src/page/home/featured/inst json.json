@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Sarah Johnson",
+    "location": "Cityville",
+    "email": "sarahjohnson@musicteacher.com",
+    "phone": "+1 123-456-7890",
+    "instructorImage": "https://i.ibb.co/jRCWTjF/1517371484929.jpg",
+    "classes": [
+      {
+        "title": "Jazz Music Ensemble",
+        "instructor": "Sarah Johnson",
+        "schedule": "Wednesdays and Fridays, 7:00 PM - 8:30 PM",
+        "price": "$55/hour",
+        "total_students": 18,
+        "image": "https://i.ibb.co/3yTHm8Z/news-campus-jazz-festival-highschool-invitational-story.jpg"
+      }
+      
+    ]
+  },
+  {
+    "name": "Emily Davis",
+    "location": "Townsville",
+    "email": "emilydavis@musicteacher.com",
+    "phone": "+1 987-654-3210",
+    "instructorImage": "https://i.ibb.co/4TNXNzt/image-asset.jpg",
+    "classes": [
+      {
+        "title": "Pop Singing Workshop",
+        "instructor": "Sarah Johnson",
+        "schedule": "Tuesdays and Thursdays, 5:00 PM - 6:30 PM",
+        "price": "$55/hour",
+        "total_students": 20,
+        "image": "https://i.ibb.co/2qZsqR8/pexels-photo-6671592.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Michael Thompson",
+    "location": "Cityville",
+    "email": "michaelthompson@musicteacher.com",
+    "phone": "+1 555-123-4567",
+    "instructorImage": "https://i.ibb.co/NN1LK3h/mean-shadows-374162-unsplash-1.jpg",
+    "classes": [
+      {
+        "title": "Vocal Technique and Performance",
+        "instructor": "Michael Thompson",
+        "schedule": "Mondays, 6:30 PM - 8:00 PM",
+        "price": "$50/hour",
+        "total_students": 25,
+        "image": "https://i.ibb.co/H4CW6Ct/learn-to-sing.jpg"
+      }
+    ]
+  },
+  {
+    "name": "John Smith",
+    "location": "Musicville",
+    "email": "johnsmith@musicteacher.com",
+    "phone": "+1 999-876-5432",
+    "instructorImage": "https://i.ibb.co/d2kD4n6/Shifting-in-and-out-of-thumb-position-SS-cover-image.jpg",
+    "classes": [
+      {
+        "title": "Classical Vocal Training",
+        "instructor": "John Smith",
+        "schedule": "Mondays and Wednesdays, 6:00 PM - 7:30 PM",
+        "price": "$50/hour",
+        "total_students": 15,
+        "image": "https://i.ibb.co/wKwtjDw/istockphoto-1350037767-640x640.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Sophia Anderson",
+    "location": "Melodyville",
+    "email": "sophiaanderson@musicteacher.com",
+    "phone": "+1 888-123-4567",
+    "instructorImage": "https://i.ibb.co/pjrPNGm/cost-of-private-singing-lessons.jpg",
+    "classes": [
+      {
+        "title": "Classical Music",
+        "instructor": "Sarah Johnson",
+        "schedule": "Mondays and Wednesdays, 6:00 PM - 7:30 PM",
+        "price": "$60/hour",
+        "total_students": 20,
+        "image": "https://i.ibb.co/n11TF0q/Classical-Music-violin.jpg"
+      }
+    ]
+  },
+  {
+    "name": "David Miller",
+    "location": "Harmonyville",
+    "email": "davidmiller@musicteacher.com",
+    "phone": "+1 777-987-6543",
+    "instructorImage": "https://i.ibb.co/5cFVfD9/IMG-0978-heic.webp",
+    "classes": [
+      {
+        "title": "Music Theory Fundamentals",
+        "instructor": "Sarah Johnson",
+        "schedule": "Saturdays, 10:00 AM - 11:30 AM",
+        "price": "$50/hour",
+        "total_students": 25,
+        "image": "https://i.ibb.co/vQsCsVr/best-music-course-class-certification-training-online.jpg"
+      }
+    ]
+  }
+  
+  
+]

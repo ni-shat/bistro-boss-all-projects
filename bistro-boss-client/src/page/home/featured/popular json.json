@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Classical Music",
+    "description": "Learn the techniques and repertoire of classical music, including compositions from famous classical composers.",
+    "instructor": "Sarah Johnson",
+    "schedule": "Mondays and Wednesdays, 5:00 PM - 6:30 PM",
+    "price": "$60/hour",
+    "image": "https://i.ibb.co/n11TF0q/Classical-Music-violin.jpg",
+    "total_students": 20
+  },
+  {
+    "title": "Pop Singing Workshop",
+    "description": "Develop your vocal skills specifically for pop music genres. Learn performance techniques, vocal control, and style.",
+    "instructor": "Sarah Johnson",
+    "schedule": "Tuesdays and Thursdays, 5:00 PM - 6:30 PM",
+    "price": "$55/hour",
+    "image": "https://i.ibb.co/2qZsqR8/pexels-photo-6671592.jpg",
+    "total_students": 20
+  },
+  {
+    "title": "Jazz Music Ensemble",
+    "description": "Join a jazz ensemble to practice and perform various jazz standards. Open to instrumentalists and vocalists.",
+    "instructor": "Emily Davis",
+    "schedule": "Wednesdays and Fridays, 7:00 PM - 8:30 PM",
+    "price": "$55/hour",
+    "image": "https://i.ibb.co/3yTHm8Z/news-campus-jazz-festival-highschool-invitational-story.jpg",
+    "total_students": 18
+  },
+  {
+    "title": "Music Theory Fundamentals",
+    "description": "Learn the essential elements of music theory, including notation, rhythm, scales, and harmony.",
+    "instructor": "Sarah Johnson",
+    "schedule": "Mondays and Wednesdays, 6:00 PM - 7:30 PM",
+    "price": "$50/hour",
+    "image": "https://i.ibb.co/vQsCsVr/best-music-course-class-certification-training-online.jpg",
+    "total_students": 25
+  },
+  {
+    "title": "Vocal Technique and Performance",
+    "description": "Develop your singing skills through vocal exercises, breath control, and stage presence. Suitable for all levels.",
+    "instructor": "Sarah Johnson",
+    "schedule": "Mondays and Wednesdays, 6:00 PM - 7:30 PM",
+    "price": "$50/hour",
+    "image": "https://i.ibb.co/H4CW6Ct/learn-to-sing.jpg",
+    "total_students": 25
+  }
+]
